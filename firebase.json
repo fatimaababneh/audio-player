@@ -1,0 +1,12 @@
+{
+    "hosting": {
+      "site": "test-audio-ai",
+      "public": "public",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ]
+    }
+  }
+  
